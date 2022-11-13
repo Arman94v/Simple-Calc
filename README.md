@@ -1,4 +1,4 @@
-# Simple-Calc
+# Simple-Calculator
 Calculator to solve simple math problems
 
 Operators:
